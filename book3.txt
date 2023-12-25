@@ -1,0 +1,15 @@
+Name                Brthday      Number         Category Email               
+-----------------------------------------------------------------------------
+Jason               0331          0988-763680   family   fdbbwg533@gmail.com  
+Edward              0425          0988-766685   family   john0452@gmail.com   
+Emily               0502          0988-766683   friend   hshs92533@gmail.com  
+Edward              0502          0988-766684   family   dgfghbd3@gmail.com   
+Edward              0502          0983-562405   family   scd14@gmail.com      
+Jobs                0502          0983-562405   friend   scd14@gmail.com      
+Edison Wang         0504          0985-766680   friend   sxd425721@gmail.com  
+Lily                0526          0988-766680   friend   sam92533@gmail.com   
+Linda               0820          0982-766680   friend   w1292533@gmail.com   
+Cindy               1004          0988-765684   family   sde92533@gmail.com   
+Coben               1104          0988-762680   friend   dbjki21@gmail.com    
+Cobens              1104          0988-762680   friend   dbjki21@gmail.com    
+Tim Evan            1225          0928-342358   pets     apotsa24@yahoo.com   
